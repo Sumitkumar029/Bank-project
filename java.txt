@@ -1,5 +1,12 @@
 welocme to my world
 this is for testing
 this is sumit
+<<<<<<< HEAD
 this is the actual line
+=======
+conflict line is here 
+this is the main conflict file and need to remove
+this file is the king
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+>>>>>>> 1df4be409af40ad40867a1f608a8c2134b1affe0
 
