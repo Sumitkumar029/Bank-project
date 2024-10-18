@@ -1,0 +1,11 @@
+new file for stash testing 
+
+pipeline {
+ 	stage {
+		steps {
+
+}
+
+}
+
+}
